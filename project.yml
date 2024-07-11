@@ -1,6 +1,7 @@
 ---
 settings:
   name: SnapCenter Plug-in for VMware vSphere 5.0
+  downlevel: true
   internal:
     pdf_enabled: true
   prod:
